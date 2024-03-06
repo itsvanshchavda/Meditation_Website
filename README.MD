@@ -93,6 +93,6 @@
 
 ---
 
-#### design and develop by [**Jericho Bantiquete**](https://twitter.com/monciego)
+#### design and develop byVansh Chavda
 
 #### powered by HTML5, CSS3 and Vanilla JavaScript
